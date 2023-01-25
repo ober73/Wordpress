@@ -1,0 +1,50 @@
+Wordpress Course
+
+Change DNS name go to namecheap below
+https://www.namecheap.com/?gclid=CjwKCAiAoL6eBhA3EiwAXDom5vBdvrmvsObFkQK9N9eZFBgVud98VBk-ksQPnuulc6vLzSvGUG9HgxoCkNQQAvD_BwE
+
+check Bluehost account plan (Recommended is Choice Plus)
+
+
+remove plugins or don't use/install
+
+login through WPadmin
+
+
+create new user with Editor rights only
+
+over on the rigth side when making content make sure that the user is the editor
+
+change Nickname
+
+use a gravatar image which you can link with wordpress
+
+NEXT change Permalinks
+
+
+Go to settings and permalinks
+
+reccomended to use Post Name or Custom Structure
+
+for custom you can use /blog/postname/
+
+Appearance and Themes
+
+add new theme find WPBASE
+
+install and activate
+
+delete all the other themes!!!!
+
+
+PLUGINS
+
+only one that we want is JetPack
+
+deactivate the rest
+
+
+
+
+
+
